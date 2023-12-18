@@ -32,8 +32,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[pavanso]/[YourRepo].git
-   ```
+https://github.com/Pavan-Sonawane/ClockIn-Control-Center--3C--Using-Asp.net-API-Onion-Architecture-.git   ```
 
 2. Navigate to the backend folder:
 
